@@ -25,9 +25,7 @@ However, I wasn't exactly sure how to translate the dial tones to numbers, so I 
 
 ![Figure 4](img/howto.png) 
 
-From this, I found out the tools used to translate dial tones to numbers can be found by searching  `Detect DTMF Tones`.
-
-[DialABC's Detect DTMF Tones](http://www.dialabc.com/sound/detect/index.html) and [Uframework's DTMF detector](https://unframework.github.io/dtmf-detect/).
+From this, I found out the tools used to translate dial tones to numbers can be found by searching  `Detect DTMF Tones`. So I did that and tools like the [DialABC's Detect DTMF Tones](http://www.dialabc.com/sound/detect/index.html) and [Uframework's DTMF detector](https://unframework.github.io/dtmf-detect/) came up.
 
 
 I used [Uframework's DTMF detector](https://unframework.github.io/dtmf-detect/), and noted down all the numbers by hand.
@@ -42,7 +40,7 @@ I assumed that these numbers were ASCII numbers as they were all in the alpha-nu
 
 ![Figure 6](img/ascii.png) 
 
-The obtained ASCII message had `=` at the end, so I immediately knew this requires Base64 conversion. So I went ahead to [Cyberchef](https://gchq.github.io/CyberChef/) and did Base64 conversion.
+The ASCII message had `=` at the end, so I immediately knew this requires Base64 conversion. So I went ahead to [Cyberchef](https://gchq.github.io/CyberChef/) and did Base64 conversion.
 
 ![Figure 7](img/base64.png) 
 
