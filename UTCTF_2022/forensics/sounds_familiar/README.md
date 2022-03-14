@@ -1,4 +1,4 @@
-# UTCTF 2022 Sounds Familiar
+# UTCTF 2022 Sounds Familiar (Category: Forensics)
 The challenge is the following,
 
 ![Figure 1](img/challenge.png) 
