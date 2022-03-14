@@ -111,7 +111,9 @@ Then I received the flag after a few minutes of sending the email.
 
 ![Figure 14](img/flag.png) 
 
+Thus, the flag is `utflag{osint_is_fun}`.
 
-Here's another variation of the email I made, where Nichole requests admin access to fix up the company's password reset system. 
+
+Here's another variation of the email I made which I thought might be interesting to share, where Nichole requests admin access to fix up the company's password reset system. 
 
 ![Figure 15](img/draft.png) 
