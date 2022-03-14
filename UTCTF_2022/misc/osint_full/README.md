@@ -1,4 +1,4 @@
-# UTCTF 2022 Osint Full
+# UTCTF 2022 Osint Full (Category: Misc)
 The challenge is the following,
 
 ![Figure 1](img/challenge.png) 
