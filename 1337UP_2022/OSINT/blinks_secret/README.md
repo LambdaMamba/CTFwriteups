@@ -32,7 +32,7 @@ And [meme.jpeg](./meme.jpeg) shows the following image:
 ![Figure 2](meme.jpeg) 
 
 
-From [note.txt](./note.txt), we can see that the man in [meme.jpeg](./meme.jpeg) is the missing person. 
+From [note.txt](./note.txt), we can see that the man in [meme.jpeg](./meme.jpeg) is the missing person as it mentions `a meme with his own image on it`. 
 
 By doing a Google Reverse Image search of [meme.jpeg](./meme.jpeg), the name of the meme comes up, which is `First Guy To meme". Results from [Know Your Meme](https://knowyourmeme.com/editorials/collections/drew-scanlon-reaction-comes-back-in-first-guy-to-memes) shows us the name of the man in the meme, which is Drew Scanlon. Therefore, the missing man's name is Drew Scanlon. 
 
