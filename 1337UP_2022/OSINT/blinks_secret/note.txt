@@ -1,0 +1,17 @@
+After
+a big fire accident in mr.Blinking man’s house, we managed to collect a note with a meme with his own image on it. The note says as follows:
+
+I
+missed a secret which was posted on his social media. I want to find that secret but I don't know where it is. I have some hints regarding where the secret is..
+
+
+The user name is 15 letters long
+
+The
+user name comprises of my name and zip code of my current residence
+
+Format
+Name_zipcode
+
+If
+the name is thomas mueller then write the name as ThomasMueller
