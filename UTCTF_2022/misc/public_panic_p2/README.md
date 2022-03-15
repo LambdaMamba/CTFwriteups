@@ -212,12 +212,13 @@ void loop() {
     delay(5000);
     ...
 ```
+(If anyone is interested in making a Arduino Keystroke Injector, please check out [my tutorial](https://dev.to/lambdamamba/a-badusb-that-isnt-so-bad-making-a-keystroke-injector-in-arduino-that-automates-gathertown-movements-41jm))
 
 The following shows the sped up demo of the [Brute Force keystroke injector](https://github.com/LambdaMamba/KeystrokeInjection):
 
 ![arduinodemo.gif](img/arduinodemo.gif)
 
-The [full video is on my Youtube](https://youtu.be/C51PT2RJHn4).
+The [full video can be found here in my Youtube channel](https://youtu.be/C51PT2RJHn4).
 
 
 I successfully logged into the server using the following credentials:
