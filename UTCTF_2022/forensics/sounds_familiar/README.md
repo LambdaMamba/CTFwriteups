@@ -44,4 +44,5 @@ The ASCII message had `=` at the end, so I immediately knew this requires Base64
 
 ![Figure 7](img/base64.png) 
 
-Therefore, the flag is `utctf{5ecret_f1@9_do_not_5h@re}`.
+Therefore, the flag is,
+`utctf{5ecret_f1@9_do_not_5h@re}`

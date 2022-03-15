@@ -80,4 +80,5 @@ In [Wade Coldwater's Twitter](https://twitter.com/WadeColdwater), there is [one 
 ![Figure 11](img/flag.png) 
 
 We can see that  the flag is written on the whiteboard. Therefore the flag is,
+
 `utflag{situational_awareness_is_key}`
