@@ -133,9 +133,9 @@ robswa
 ```
 
 Now, we just need to `ssh xxx@misc2.utctf.live -p 8622` to test all the possible usernames. 
-I didn't want to manually ssh all of these usernames, and I wasn't too familiar with tools that automates logins attempts on the CMD. Luckily, I had a [Arduino BadUSB Keystroke Injector I made some time ago](https://dev.to/lambdamamba/a-badusb-that-is-pretty-useful-making-a-keystroke-injector-in-arduino-that-can-crack-passwords-using-brute-force-3e77) next to me, so I decided to use that.
+I didn't want to manually ssh all of these usernames, and I wasn't too familiar with tools that automates login attempts on the command line. Luckily, I had a [Arduino BadUSB Keystroke Injector I made some time ago](https://dev.to/lambdamamba/a-badusb-that-is-pretty-useful-making-a-keystroke-injector-in-arduino-that-can-crack-passwords-using-brute-force-3e77) next to me, so I decided to use that.
  
-I wrote an Arduino program [brute_ssh.ino](./brute_ssh/brute_ssh.ino), which injects Keystrokes into the CMD after turning on the switch. There will be a 5 second delay between each password attempt, and will try the passwords
+I wrote an Arduino program [brute_ssh.ino](./brute_ssh/brute_ssh.ino), which injects Keystrokes into the command line after turning on the switch. There will be a 5 second delay between each password attempt, and will try the passwords
  `defaultpw5678!`, `defaultpw5678`, and `5678!`. Also, there will be a 2 seconds delay between each username attempt. It will try all 3 passwords for each username in [usernames.txt](./usernames.txt).
 A section of [brute_ssh.ino](./brute_ssh/brute_ssh.ino) looks like the following,
 
@@ -215,7 +215,7 @@ void loop() {
 
 The following shows the sped up demo of the [Brute Force keystroke injector](https://github.com/LambdaMamba/KeystrokeInjection):
 
-![arduinodemo.gif](arduinodemo.gif)
+![arduinodemo.gif](img/arduinodemo.gif)
 
 The [full video is on my Youtube](https://youtu.be/C51PT2RJHn4).
 
