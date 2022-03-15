@@ -14,7 +14,7 @@ Opening this up on Wireshark shows the following,
 
 If we go to `File > Export Objects > HTTP`, and click on `Preview` for packet 15, we can see the flag,
 
-![Figure 2](img/object.png) 
+![Figure 2](img/flag.png) 
 
 Therefore, the flag is,
 
