@@ -59,7 +59,7 @@ From here, I found more members of Sagishi Tech, who are:
 
 And their Twitter accounts look like the following,
 
-![Figure 10](img/following3.png) 
+![Figure 10](img/teamtwitter3.png) 
 
 Their following list doesn't contain any new members of Sagishi Tech, so the full list of Sagishi Tech members are:
 - Sherman Kern (CEO): https://twitter.com/kern_sherman
