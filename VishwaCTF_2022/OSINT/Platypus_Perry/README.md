@@ -4,12 +4,12 @@ The challenge is the following,
 ![Figure 1](img/challenge.png) 
 
 
-Here, we are given the file [Hire-me.mp3](./Hire-me.mp3). 
+Here, we are given the file [Hire-me.mp3](./files/Hire-me.mp3). 
 The challenge description says `Agent John got some information that a group of people hid a bag of LSD on a dog. He needs to find the dog before it reaches the dealer.`, which is a pretty ambiguous challenge description but tells us that we should be looking for a `dog`.
 
 
 
-When I listened to [Hire-me.mp3](./Hire-me.mp3), I couldn't make out anything meaningful, so I opened it up on Audacity.
+When I listened to [Hire-me.mp3](./files/Hire-me.mp3), I couldn't make out anything meaningful, so I opened it up on Audacity.
 
 ![Figure 2](img/audio1.png) 
 
@@ -17,7 +17,7 @@ It sounded like it was in reverse, so I reversed the audio and amplified it.
 
 ![Figure 3](img/audio2.png) 
 
-This processed audio file can be found in [Hire-me-rev.mp3](./Hire-me-rev.mp3). 
+This processed audio file can be found in [Hire-me-rev.mp3](./files/Hire-me-rev.mp3). 
 
 I listened to the audio and wrote down the letters, which gave me,
 
@@ -58,7 +58,7 @@ I went ahead and checked [Atharva Pande's LinkedIn](https://www.linkedin.com/in/
 
 This person was from `Vishwakarma Institute of Information Technology`, which is a [gold sponsor for VishwaCTF](https://ctftime.org/event/1548) so I assumed the comment this person made was one of the clues to this challenge.
 
-I isolated the cipher-like section of [Atharva Pande's](https://www.linkedin.com/in/atharva-pande-277b58206/) comment, and put it into [brainfk.txt](./brainfk.txt)
+I isolated the cipher-like section of [Atharva Pande's](https://www.linkedin.com/in/atharva-pande-277b58206/) comment, and put it into [brainfk.txt](./files/brainfk.txt)
 
 ```
 ++++++++++[>+>+++>+++++++>++++++++++<<<<-]>>>>++++.++++++++++++..----.+++.<------------.-----------..>++++...<-.>----------.--------.-.+++++.--------.+++++.+++.+++++++++.-------------.<.>--.++++++++++++.--.<+.>-------.+++.+++.-------.<.>++++++++++++.<++++++++.>------.----------.<----.>+++.++++.---.++++++++++++++.-.++++++++.--------------------.++++++++++++++.-----------------.+.<----.>--.+++++++++.--------.+++++.----.<-.>++++++++++++++.-----------------.+++++++++++++++++.<+.>------------.+++.+++.-------.
@@ -83,7 +83,7 @@ Accessing this [Media Fire Link](https://www.mediafire.com/file/q7ka3dhesrzftcd/
 
 ![Figure 10](img/rar.png) 
 
-I went ahead and downloaded [bkchd.rar](./bkchd.rar), but unfortunately, it was password protected.
+I went ahead and downloaded [bkchd.rar](./files/bkchd.rar), but unfortunately, it was password protected.
 
 ![Figure 11](img/password.png) 
 
@@ -95,19 +95,19 @@ At this time, a new hint was added,
 
 Now I know that the password length is 5 characters, which drastically reduces the brute-forcing time.
 
-So I downloaded rockyou.txt from [here](https://github.com/praetorian-inc/Hob0Rules/blob/master/wordlists/rockyou.txt.gz), unzipped it, and isolated all the 5 character passwords into [rock5.txt](./rock5.txt) with,
+So I downloaded rockyou.txt from [here](https://github.com/praetorian-inc/Hob0Rules/blob/master/wordlists/rockyou.txt.gz), unzipped it, and isolated all the 5 character passwords into [rock5.txt](./files/rock5.txt) with,
 
 `$ grep -E '^.{5}$' rockyou.txt > rock5.txt`
 
 
-So now I just needed to use [rock5.txt](./rock5.txt) as the wordlist for John the Ripper. 
+So now I just needed to use [rock5.txt](./files/rock5.txt) as the wordlist for John the Ripper. 
 
 I went ahead and made the hash using
 
 `$ sudo rar2john bkchd.rar > rarhash`
 
 
-And crack with John using [rock5.txt](./rock5.txt) as the wordlist,
+And crack with John using [rock5.txt](./files/rock5.txt) as the wordlist,
 
 `$ john --wordlist=rock5.txt rarhash `
 
@@ -118,7 +118,7 @@ After a few minutes, John has found the password, which is
 ![Figure 13](img/john.png) 
 
 
-I went ahead and opened [bkchd.rar](./bkchd.rar) with the password `idgaf`, and inside was the following picture. 
+I went ahead and opened [bkchd.rar](./files/bkchd.rar) with the password `idgaf`, and inside was the following picture. 
 
 
 ![Figure 14](bkchd.png) 
@@ -129,7 +129,7 @@ I checked for steganographic messages using [Steganography Online
 
 ![Figure 15](img/steg.png) 
 
-As shown above, some text was contained in this image, which I put into [decodedsteg.txt](./decodedsteg.txt). 
+As shown above, some text was contained in this image, which I put into [decodedsteg.txt](./files/decodedsteg.txt). 
 
 ```
 this  ( guy's pet love dem fries, thats your final pin@ @  @@@   @@ D @ @ @  @@@@ @ @@ @@@     @@  @ @  @ @ @@    @@  @@ @@@@@@@ @ @ @  @  @ @  @ H @  @@ @@ @@@@   @@ @@@ @ @@@@
@@ -137,7 +137,7 @@ this  ( guy's pet love dem fries, thats your final pin@ @  @@@   @@ D 
 
 I didn't know what this was supposed to mean and assumed it was saying that this guy's pet, more specifically, the dog is what we're supposed to look for.
 
-So I did a reverse image on Google using [bkchd.png](./bkchd.png).
+So I did a reverse image on Google using [bkchd.png](./files/bkchd.png).
 
 ![Figure 16](img/rev.png) 
 
