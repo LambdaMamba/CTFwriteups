@@ -19,3 +19,9 @@ Official Site: [UTCTF 2022](http://utctf.live/)
 Writeup files: [UTCTF_2022](./UTCTF_2022)
 
 
+## VishwaCTF 2022
+Date: 3/19(Sat) 19:30 ～ 3/21(Mon) 19:30 GMT+9
+
+Official Site: [VishwaCTF](https://vishwactf.com/)
+
+Writeup files: [VishwaCTF_2022](./VishwaCTF_2022)
