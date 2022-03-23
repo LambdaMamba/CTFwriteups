@@ -200,3 +200,10 @@ The dog's name is `Misio Zdzisio`, and as the challenge was to find a dog and th
 
  `vishwaCTF{Misio_Zdzisio}`
 
+
+I cried tears of joy when I inputted this flag and finally got `correct`, because I failed multiple times with flags like `vishwaCTF{David_Bombal}`, `vishwaCTF{Atharva_Pande}` and  `vishwaCTF{Pavel_Ladziak}`. 
+
+![Figure 27](img/correct.png) 
+
+This challenge was an emotional rollercoaster. Every time I thought I got the flag, it turns out it wasn't the flag, but rather only a step in obtaining the flag. Thus, finally getting `correct` was extremely satisfying, especially when you're the first to solve the challenge. I experienced an important life lesson while doing this challenge, which is to keep trying even if you fail because those failures will lead your way to success.
+
