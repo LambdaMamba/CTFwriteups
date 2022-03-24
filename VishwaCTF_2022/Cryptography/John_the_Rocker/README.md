@@ -56,7 +56,7 @@ Then specified [rockyou.txt](https://github.com/praetorian-inc/Hob0Rules/blob/ma
 
 After a few minutes, John the Ripper found the password, which was `!!**john**!!`
 
-![Figure 1](img/error.png) 
+![Figure 1](img/john.png) 
 
 The challenge didn't have any further instructions, so I assumed that the flag would be,
 
