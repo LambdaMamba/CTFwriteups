@@ -4,7 +4,7 @@
 
 The challenges I solved are:
 
-![Figure 1](img/solved.png) 
+![Figure 1](solved.png) 
 
 Their write-ups (excluding some beginner challenges) can be found here.
 
