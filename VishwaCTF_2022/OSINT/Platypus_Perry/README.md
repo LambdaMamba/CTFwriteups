@@ -120,8 +120,7 @@ After a few minutes, John has found the password, which is
 
 I went ahead and opened [bkchd.rar](./files/bkchd.rar) with the password `idgaf`, and inside was the following picture. 
 
-
-![Figure 14](bkchd.png) 
+![Figure 14](files/bkchd.png) 
 
 
 I checked for steganographic messages using [Steganography Online
