@@ -1,7 +1,10 @@
 # Platypus Perry (Category: OSINT)
+
+This challenge was an emotional rollercoaster, where I experienced the downs of multiple incorrect submissions and the highs of being the first to solve the challenge.
+
 The challenge is the following,
 
-![Figure 1](img/challenge.png) 
+![Figure 1](img/challengenew.png) 
 
 
 Here, we are given the file [Hire-me.mp3](./files/Hire-me.mp3). 
