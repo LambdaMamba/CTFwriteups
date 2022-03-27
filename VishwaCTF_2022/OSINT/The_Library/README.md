@@ -127,7 +127,7 @@ So apparently, this architecture was called the `Rotunda`. The bot says `These S
 
 So I looked up `the lost symbol cipher` on Google, and saw that most of them had the keyword `magic squares` in them.
 
-![Figure 5](img/revimage.png) 
+![Figure 5](img/revimg.png) 
 
 I looked up `the lost symbol cipher magic squares`, and came across [this website](https://sites.google.com/site/lostsymbolproject/masonic-cipher) that talks in detail about the cipher used in the book. I saw that the Pig-pen part was correct, but the cipher used in The Lost Symbol uses one additional step, which was the `magic square`. 
 

@@ -123,8 +123,7 @@ After a few minutes, John has found the password, which is
 
 I went ahead and opened [bkchd.rar](./files/bkchd.rar) with the password `idgaf`, and inside was the following picture. 
 
-
-![Figure 14](bkchd.png) 
+![Figure 14](files/bkchd.png) 
 
 
 I checked for steganographic messages using [Steganography Online
@@ -208,5 +207,7 @@ I cried tears of joy when I inputted this flag and finally got `correct`, becaus
 
 ![Figure 27](img/correct.png) 
 
-This challenge was an emotional rollercoaster. Every time I thought I got the flag, it turns out it wasn't the flag, but rather only a step in obtaining the flag. Thus, finally getting `correct` was extremely satisfying, especially when you're the first to solve the challenge. I experienced an important life lesson while doing this challenge, which is to keep trying even if you fail because those failures will lead your way to success.
+This challenge was an emotional rollercoaster. Every time I thought I got the flag, it turns out it wasn't the flag, but rather only a step in obtaining the flag. Thus, finally getting `correct` was extremely satisfying, especially because I was the first to solve the challenge.
+
+I experienced an important life lesson while doing this challenge, which is to keep trying even if you fail because those failures will lead your way to success.
 

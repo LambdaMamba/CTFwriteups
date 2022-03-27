@@ -19,8 +19,8 @@ Their write-ups (excluding some beginner challenges) can be found here.
 
 
 ## Forensics:
-- [So Forgetful!](./Forensics/So_Forgetful): 250 points
-- [The Last Jedi](./Forensics/The_Last_Jedi): 250 points
+- [So Forgetful!](./Forensic/So_Forgetful): 250 points
+- [The Last Jedi](./Forensic/The_Last_Jedi): 250 points
 
 
 ## Cryptography:
