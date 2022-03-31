@@ -17,8 +17,11 @@ As most private keys contain the string `OPENSSH PRIVATE KEY`, I string searched
 There were files that contained `OPENSSH PRIVATE KEY`, so now I have to find the actual contents of the private key file. I used the offset `114562048` and did the operations similar to [Sleuthkit Apprentice](https://github.com/LambdaMamba/CTFwriteups/tree/main/picoCTF_2022/Forensics/Sleuthkit_Apprentice) to find the file contents using the commands, 
 
 `$ expr 114562048 - 105906176`
+
 `$ expr 8655872 / 1024`
+
 `$ ifind -f ext4 -o 206848 -d 8453 disk.img`
+
 `$ icat -f ext4 -o 206848 disk.img 15`
 
 
