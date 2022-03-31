@@ -3,10 +3,7 @@ The challenge is the following,
 
 ![Figure 1](img/challenge.png) 
 
-We are also given the file [disk.flag.img.gz](./disk.flag.img.gz)
-
-
-I downloaded the file, extracted it, and checked the partitions using 
+We are also given the file [disk.flag.img.gz](./disk.flag.img.gz). I downloaded the file, extracted it, and checked the partitions using 
 
 `$ mmls disk.flag.img`.
 
