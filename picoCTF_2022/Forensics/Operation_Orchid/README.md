@@ -7,10 +7,15 @@ We are also given the file [disk.flag.img.gz](./disk.flag.img.gz). I downloaded 
 
 `$ strings -t d disk.flag.img | grep -iE "flag.txt"`
 
-![Figure 1](img/mmls.png) 
+![Figure 1](img/mmls.png)
+
 
 
 From this, I assumed that the flag was first written into `flag.txt`, encrypted and put into `flag.txt.enc` using OpenSSL aes256 with the salt option and a password with `unbreakablepassword1234567`, and `flag.txt` was shredded. 
+
+I double checked with Autopsy, and saw that the commands used were contained in `.ash_history`.
+
+![Figure 1](img/ssh.png) 
 
 As the OpenSSL with the salt option generates encrypted text that starts with `Salted`, so I decided to string search that using,
 
@@ -36,6 +41,10 @@ Salted__???3[u
               :dmޠ
 D-Z{z?+g?p?=?N???\??B?Ȥ7? ???؎$?'%
 ```
+
+I double checked with Autopsy, and confirmed that the Salted file was there.
+
+![Figure 1](img/salt.png) 
 
 So I redirected the output to `flag.txt.enc` using,
 
