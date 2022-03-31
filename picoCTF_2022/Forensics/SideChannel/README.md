@@ -1,4 +1,4 @@
-# picoCTF 2022 SideChannel (Forensics)
+# picoCTF 2022 SideChannel (Forensics 400 points)
 The challenge is the following,
 ![Figure 1](img/challenge.png) 
 
@@ -255,5 +255,7 @@ I logged into the master server using this PIN, which gave me the flag,
 
 ![Figure 1](img/flag.png) 
 
-  
+Therefore, the flag is,
+
+`picoCTF{t1m1ng_4tt4ck_8d0e5357}`
  
