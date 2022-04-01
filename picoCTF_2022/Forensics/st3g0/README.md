@@ -22,3 +22,4 @@ This revealed the flag at `b1,rgb,lsb,xy`, where `rgb` means it uses RGB channel
 Therefore, the flag is,
 
 `picoCTF{7h3r3_15_n0_5p00n_1b8d71db}`
+
