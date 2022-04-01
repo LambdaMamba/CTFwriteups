@@ -3,7 +3,7 @@ The challenge is the following,
 
 ![Figure 1](img/challenge.png) 
 
-We are also given the file [pico.flag.png](./pico.flag.png)
+We are also given the file [pico.flag.png](./files/pico.flag.png)
 
 I went to [Steganography Online](https://stylesuxx.github.io/steganography/) to decode the image, but decoding the image did not reveal anything.
 

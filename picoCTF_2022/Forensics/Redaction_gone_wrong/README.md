@@ -3,7 +3,7 @@ The challenge is the following,
 
 ![Figure 1](img/challenge.png) 
 
-We are also given the file [Financial_Report_for_ABC_Labs.pdf](./Financial_Report_for_ABC_Labs.pdf).
+We are also given the file [Financial_Report_for_ABC_Labs.pdf](./files/Financial_Report_for_ABC_Labs.pdf).
 
 
 I opened it up in a PDF viewer,

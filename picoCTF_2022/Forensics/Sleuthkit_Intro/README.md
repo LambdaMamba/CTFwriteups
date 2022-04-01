@@ -3,7 +3,7 @@ The challenge is the following,
 
 ![Figure 1](img/challenge.png) 
 
-We are also given the file [disk.img.gz](./disk.img.gz)
+We are also given the file [disk.img.gz](./files/disk.img.gz)
 
 I downloaded the file, extracted it, and used the following command,
 

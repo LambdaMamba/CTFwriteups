@@ -3,7 +3,7 @@ The challenge is the following,
 
 ![Figure 1](img/challenge.png) 
 
-We are also given the file [anthem.flag.txt](./anthem.flag.txt). 
+We are also given the file [anthem.flag.txt](./files/anthem.flag.txt). 
 
 
 I viewed the contents of the file, which contained a very long text.

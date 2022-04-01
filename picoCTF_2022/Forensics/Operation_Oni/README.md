@@ -3,7 +3,7 @@ The challenge is the following,
 
 ![Figure 1](img/challenge.png) 
 
-We are also given the file [disk.img.gz](./disk.img.gz). I downloaded the file, extracted it. The challenge says to use a `key_file` to ssh to the remote machine, so I assumed that I need to look for a file that contained the key. I tried to find the partition information using,
+We are also given the file [disk.img.gz](./files/disk.img.gz). I downloaded the file, extracted it. The challenge says to use a `key_file` to ssh to the remote machine, so I assumed that I need to look for a file that contained the key. I tried to find the partition information using,
 
 `$ mmls disk.img`
 

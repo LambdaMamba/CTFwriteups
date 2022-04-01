@@ -3,7 +3,7 @@ The challenge is the following,
 
 ![Figure 1](img/challenge.png) 
 
-We are also given the file [capture.flag.pcap](./capture.flag.pcap). Opening this up on Wireshark showed the following,
+We are also given the file [capture.flag.pcap](./files/capture.flag.pcap). Opening this up on Wireshark showed the following,
 
 
 ![Figure 1](img/packet.png) 

@@ -3,7 +3,7 @@ The challenge is the following,
 
 ![Figure 1](img/challenge.png) 
 
-We are also given the file [torrent.pcap](./torrent.pcap). As this is a torrent challenge, I went to Wireshark and enabled the BitTorrent DHT Protocol (BT-DHT) by going to `Analyze -> Enabled Protocol`.
+We are also given the file [torrent.pcap](./files/torrent.pcap). As this is a torrent challenge, I went to Wireshark and enabled the BitTorrent DHT Protocol (BT-DHT) by going to `Analyze -> Enabled Protocol`.
 
 
 ![Figure 1](img/bt.png) 

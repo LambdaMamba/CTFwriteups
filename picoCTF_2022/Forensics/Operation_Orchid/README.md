@@ -3,7 +3,7 @@ The challenge is the following,
 
 ![Figure 1](img/challenge.png) 
 
-We are also given the file [disk.flag.img.gz](./disk.flag.img.gz). I downloaded the file, extracted it. I did the operations in [Sleuthkit Apprentice](https://github.com/LambdaMamba/CTFwriteups/tree/main/picoCTF_2022/Forensics/Sleuthkit_Apprentice) to find the partition informations, and I decided to string search `flag.txt` using,
+We are also given the file [disk.flag.img.gz](./files/disk.flag.img.gz). I downloaded the file, extracted it. I did the operations in [Sleuthkit Apprentice](https://github.com/LambdaMamba/CTFwriteups/tree/main/picoCTF_2022/Forensics/Sleuthkit_Apprentice) to find the partition informations, and I decided to string search `flag.txt` using,
 
 `$ strings -t d disk.flag.img | grep -iE "flag.txt"`
 
