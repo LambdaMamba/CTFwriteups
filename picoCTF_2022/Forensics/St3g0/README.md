@@ -5,6 +5,8 @@ The challenge is the following,
 
 We are also given the file [pico.flag.png](./files/pico.flag.png)
 
+![Figure 1](files/pico.flag.png)
+
 I went to [Steganography Online](https://stylesuxx.github.io/steganography/) to decode the image, but decoding the image did not reveal anything.
 
 
