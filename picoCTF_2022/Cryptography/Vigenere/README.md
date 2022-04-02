@@ -3,7 +3,7 @@ The challenge is the following,
 
 ![Figure 1](img/challenge.png) 
 
-We are also given the file [message.txt](./files/cipher.txt) which contains,
+We are also given the file [cipher.txt](./files/cipher.txt) which contains,
 
 ```
 rgnoDVD{O0NU_WQ3_G1G3O3T3_A1AH3S_a23a13a5}
