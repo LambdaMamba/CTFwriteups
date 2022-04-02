@@ -9,8 +9,6 @@ The challenges I solved are:
 
 ## Forensics 
 
-The forensics challenges I solved in picoCTF 2022 are the following,
-
 - [Enhance!](./Forensics/Enhance!): 100 points
 - [File types](./Forensics/File_types): 100 points
 - [Lookey here](./Forensics/Lookey_here): 100 points
@@ -28,8 +26,6 @@ The forensics challenges I solved in picoCTF 2022 are the following,
 
 ## Cryptography
 
-The cryptography challenges I solved in picoCTF 2022 are the following,
-
 - basic-mod1: 100 points
 - basic-mod2: 100 points
 - credstuff: 100 points
@@ -45,8 +41,6 @@ The cryptography challenges I solved in picoCTF 2022 are the following,
 
 ## Binary Exploitation
 
-The Binary Exploitation challenges I solved in picoCTF 2022 are the following,
-
 - buffer overflow 0: 100 points
 - CVE-XXXX-XXXX: 100 points
 - buffer overflow 1: 200 points
@@ -55,13 +49,11 @@ The Binary Exploitation challenges I solved in picoCTF 2022 are the following,
 
 ## Reverse Engineering
 
-The Reverse Engineering challenges I solved in picoCTF 2022 are the following,
 - file-run1: 100 points
 - file-run2: 100 points
 
 ## Web Exploitation
 
-The Web Exploitation challenges I solved in picoCTF 2022 are the following,
 - Includes: 100 points
 - Inspect HTML: 100 points
 
