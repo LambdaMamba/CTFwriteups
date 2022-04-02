@@ -26,17 +26,17 @@ The challenges I solved are:
 
 ## Cryptography
 
-- basic-mod1: 100 points
-- basic-mod2: 100 points
-- credstuff: 100 points
-- morse-code: 100 points
-- rail-fence: 100 points
-- substitution0: 100 points
-- substitution1: 100 points
-- substitution2: 100 points
-- transposition-trial: 100 points
-- Vigenere: 100 points
-- diffie-hellman: 200 points
+- [basic-mod1](./Cryptography/basic-mod1): 100 points
+- [basic-mod2](./Cryptography/basic-mod2): 100 points
+- [credstuff](./Cryptography/credstuff): 100 points
+- [morse-code](./Cryptography/morse-code): 100 points
+- [rail-fence](./Cryptography/rail-fence): 100 points
+- [substitution0](./Cryptography/substitution0): 100 points
+- [substitution1](./Cryptography/substitution1): 100 points
+- [substitution2](./Cryptography/substitution2): 100 points
+- [transposition-trial](./Cryptography/transposition-trial): 100 points
+- [Vigenere](./Cryptography/Vigenere): 100 points
+- [diffie-hellman](./Cryptography/diffie-hellman): 200 points
 
 
 ## Binary Exploitation
