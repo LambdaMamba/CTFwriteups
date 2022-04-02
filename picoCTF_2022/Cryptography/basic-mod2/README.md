@@ -9,7 +9,7 @@ We are also given the file [message.txt](./files/message.txt) which contains,
 145 167 233 272 344 91 395 393 433 92 77 414 344 318 420 263 87 186 96 103 91 354 161 
 ```
 
-I followed what the challenge said, and applied mod 41 to each number and took the modular inverse,
+I followed what the challenge said, and applied mod 41 to each number and took the modular inverse using this [Online Modular Multiplicative Inverse Calculator](https://planetcalc.com/3311/),
 
 ```
 28 14 22 30 18 32 30 12 25 37 8 31 18 4 37 29 33 28 3 2 32 30 27
