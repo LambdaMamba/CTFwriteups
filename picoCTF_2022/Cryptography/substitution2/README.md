@@ -23,13 +23,15 @@ This time, it did not have spaces so guessing the words would be more difficult.
 
 ![Figure 1](img/auto.png) 
 
-This showed that it uses a character map set of,
+This actually already gives the flag, but I wanted to differentiate between the lowercase and uppcase so decided to do manual substitution from here.
+
+From the automatic substitution, it showed that it uses a character map set of,
 
 `abcdefghijklmnopqrstuvwxyz`
 
 `eltpnxjkrwvaobgfiucmyqhdzs`
 
-Which gave me,
+Manual substitution gave me,
 
 ```
 thereexistseveralotherwellestablishedhighschoolcomputersecuritycompetitionsincludingcyberpatriotanduscyberchallengethesecompetitionsfocusprimarilyonsyste
