@@ -58,5 +58,3 @@ The challenges I solved are the following.
 - Includes: 100 points
 - Inspect HTML: 100 points
 
-
-
