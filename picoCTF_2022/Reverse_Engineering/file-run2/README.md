@@ -1,4 +1,4 @@
-# picoCTF 2022 file-run1 (Reverse Engineering 100 points)
+# picoCTF 2022 file-run2 (Reverse Engineering 100 points)
 The challenge is the following,
 
 ![Figure 1](img/challenge.png) 
@@ -9,9 +9,9 @@ I added executable permissions using,
 
 `$ chmod +x run`
 
-And executed using,
+And executed with `Hello!`
 
-`$ ./run`
+`$ ./run Hello!`
 
 Which gave me, 
 
@@ -19,4 +19,4 @@ Which gave me,
 
 Therefore, the flag is,
 
-`picoCTF{U51N6_Y0Ur_F1r57_F113_102c30db}`
+`picoCTF{F1r57_4rgum3n7_4653b5f6}`
