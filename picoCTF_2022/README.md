@@ -55,6 +55,6 @@ The challenges I solved are the following.
 
 ## Web Exploitation
 
-- Includes: 100 points
-- Inspect HTML: 100 points
+- [Inspect_HTML](./Web_Exploitation/Inspect_HTML): 100 points
+- [Includes](./Web_Exploitation/Includes): 100 points
 
