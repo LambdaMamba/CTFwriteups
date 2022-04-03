@@ -1,11 +1,11 @@
 # picoCTF 2022
 
-Our category progress and score was,
+My team's category progress and score in picoCTF 2022 was,
 
 ![Figure 1](score.png) 
 
 
-The challenges I solved are:
+The challenges I solved are the following.
 
 ## Forensics 
 
@@ -41,11 +41,12 @@ The challenges I solved are:
 
 ## Binary Exploitation
 
-- buffer overflow 0: 100 points
-- CVE-XXXX-XXXX: 100 points
-- buffer overflow 1: 200 points
-- buffer overflow 2: 300 points
-- flag leak: 300 points
+-[CVE-XXXX-XXXX](./Binary_Exploitation/CVE-XXXX-XXXX): 100 points
+-[buffer_overflow_0](./Binary_Exploitation/buffer_overflow_0): 100 points
+-[buffer_overflow_1](./Binary_Exploitation/buffer_overflow_1): 200 points
+-[buffer_overflow_2](./Binary_Exploitation/buffer_overflow_2): 300 points
+-[flag_leak](./Binary_Exploitation/flag_leak): 300 points
+
 
 ## Reverse Engineering
 
