@@ -41,11 +41,11 @@ The challenges I solved are the following.
 
 ## Binary Exploitation
 
--[CVE-XXXX-XXXX](./Binary_Exploitation/CVE-XXXX-XXXX): 100 points
--[buffer_overflow_0](./Binary_Exploitation/buffer_overflow_0): 100 points
--[buffer_overflow_1](./Binary_Exploitation/buffer_overflow_1): 200 points
--[buffer_overflow_2](./Binary_Exploitation/buffer_overflow_2): 300 points
--[flag_leak](./Binary_Exploitation/flag_leak): 300 points
+- [CVE-XXXX-XXXX](./Binary_Exploitation/CVE-XXXX-XXXX): 100 points
+- [buffer_overflow_0](./Binary_Exploitation/buffer_overflow_0): 100 points
+- [buffer_overflow_1](./Binary_Exploitation/buffer_overflow_1): 200 points
+- [buffer_overflow_2](./Binary_Exploitation/buffer_overflow_2): 300 points
+- [flag_leak](./Binary_Exploitation/flag_leak): 300 points
 
 
 ## Reverse Engineering
