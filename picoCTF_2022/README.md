@@ -50,8 +50,8 @@ The challenges I solved are the following.
 
 ## Reverse Engineering
 
-- file-run1: 100 points
-- file-run2: 100 points
+- [file-run1](./Reverse_Engineering/file-run1): 100 points
+- [file-run2](./Reverse_Engineering/file-run2): 100 points
 
 ## Web Exploitation
 
