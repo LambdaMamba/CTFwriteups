@@ -7,7 +7,7 @@ My team's category progress and score in picoCTF 2022 was,
 
 The challenges I solved are the following.
 
-## Forensics 
+## Forensics (Solved 13/13)
 
 - [Enhance!](./Forensics/Enhance!): 100 points
 - [File types](./Forensics/File_types): 100 points
@@ -24,7 +24,7 @@ The challenges I solved are the following.
 - [Torrent Analyze](./Forensics/Torrent_Analyze): 400 points
 
 
-## Cryptography
+## Cryptography (Solved 11/15)
 
 - [basic-mod1](./Cryptography/basic-mod1): 100 points
 - [basic-mod2](./Cryptography/basic-mod2): 100 points
@@ -39,7 +39,7 @@ The challenges I solved are the following.
 - [diffie-hellman](./Cryptography/diffie-hellman): 200 points
 
 
-## Binary Exploitation
+## Binary Exploitation (Solved 5/14)
 
 - [CVE-XXXX-XXXX](./Binary_Exploitation/CVE-XXXX-XXXX): 100 points
 - [buffer_overflow_0](./Binary_Exploitation/buffer_overflow_0): 100 points
@@ -48,12 +48,12 @@ The challenges I solved are the following.
 - [flag_leak](./Binary_Exploitation/flag_leak): 300 points
 
 
-## Reverse Engineering
+## Reverse Engineering (Solved 2/12)
 
 - [file-run1](./Reverse_Engineering/file-run1): 100 points
 - [file-run2](./Reverse_Engineering/file-run2): 100 points
 
-## Web Exploitation
+## Web Exploitation (Solved 2/12)
 
 - [Inspect_HTML](./Web_Exploitation/Inspect_HTML): 100 points
 - [Includes](./Web_Exploitation/Includes): 100 points
