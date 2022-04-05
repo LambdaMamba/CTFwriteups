@@ -1,4 +1,4 @@
-# picoCTF 2022 Reverse Engineering
+# picoCTF 2022 Reverse Engineering (Solved 2/12)
 
 The Reverse Engineering challenges I solved in picoCTF 2022 are the following,
 

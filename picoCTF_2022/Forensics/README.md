@@ -1,4 +1,4 @@
-# picoCTF 2022 Forensics
+# picoCTF 2022 Forensics (Solved 13/13)
 
 The forensics challenges I solved in picoCTF 2022 are the following,
 
