@@ -1,10 +1,5 @@
 # picoCTF 2022
 
-My team's category progress and score in picoCTF 2022 was,
-
-![Figure 1](score.png) 
-
-
 The challenges I solved are the following.
 
 ## Forensics (Solved 13/13)
