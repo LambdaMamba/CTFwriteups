@@ -9,7 +9,7 @@ We are also given the file [torrent.pcap](./files/torrent.pcap). As this is a to
 ![Figure 1](img/bt.png) 
 
 
-The overall pacture capture looks like the following,
+The overall packet capture looks like the following,
 
 
 ![Figure 1](img/pcap.png) 
