@@ -1,9 +1,5 @@
 # picoCTF 2022
 
-Our category progress and score in picoCTF 2022 was,
-
-![Figure 1](score.png) 
-
 The challenges I solved are the following.
 
 ## Forensics (Solved 13/13)
@@ -57,3 +53,8 @@ The challenges I solved are the following.
 - [Inspect_HTML](./Web_Exploitation/Inspect_HTML): 100 points
 - [Includes](./Web_Exploitation/Includes): 100 points
 
+
+
+Our category progress and score in picoCTF 2022 was,
+
+![Figure 1](score.png) 
