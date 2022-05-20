@@ -1,6 +1,9 @@
 # picoCTF 2022
 
+All my writeups can also be found on my [dev.to blog](https://dev.to/lambdamamba/ctf-writeup-picoctf-2022-a4i).
+
 The challenges I solved are the following.
+
 
 ## Forensics (Solved 13/13)
 

@@ -2,6 +2,9 @@
 
 [UTCTF 2022](https://utctf.live/) is hosted by The University of Texas at Austin by the [Information & Systems Security Society (ISSS)](https://www.isss.io/).
 
+All my writeups can also be found on my [dev.to blog](https://dev.to/lambdamamba/ctf-writeup-utctf-2022-1kmm).
+
+
 The challenges I solved are the following.
 
 ## Misc:

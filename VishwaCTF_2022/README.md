@@ -2,6 +2,8 @@
 
 [VishwaCTF](https://vishwactf.com/) is hosted by [Cybercell VIIT](https://www.viit.ac.in/viit-cyber-cell).
 
+All my writeups can also be found on my [dev.to blog](https://dev.to/lambdamamba/ctf-writeup-vishwactf-2022-3me5).
+
 The challenges I solved are:
 
 ![Figure 1](solved.png) 
