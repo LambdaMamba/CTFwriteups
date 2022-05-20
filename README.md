@@ -1,4 +1,4 @@
-# LambdaMamba's CTF Writeups
+# Lena's CTF Writeups
 
 This Github repository contains my CTF writeups.
 
